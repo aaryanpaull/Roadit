@@ -1,4 +1,4 @@
-# Roadit - team FOSSILS
+# Roadit - Team FOSSILS
 
 Members: 
 Aaryan Paul (aaryan.paul2025@vitstudent.ac.in) - 8777565409 [LEAD]
@@ -12,11 +12,11 @@ LOGO: https://drive.google.com/file/d/1XAPX4fuxtTpTelbSejpPWiGQOeQ14Qhw/view?usp
 VIDEO OF PROTOTYPE: https://drive.google.com/file/d/1z_QRsAWXPfBbJJowPNa-rlv1jz8Kgicb/view?usp=drive_link
 
 
-Roadit is a mobile-first web app that lets citizens report road issues like potholes or waterlogging with GPS-tagged photos and severity levels. Using Google Maps API and auto-escalation logic, it tracks reports, boosts transparency, and holds municipal bodies accountable via public dashboards.
+Roadit is a web app that lets citizens report road issues like potholes or waterlogging with GPS-tagged photos and severity levels. Using Google Maps API and auto-escalation logic, it tracks reports, boosts transparency, and holds municipal bodies accountable via public dashboards.
 
 **Roadit — Citizen-Powered Road Issue Reporter**
 
-Roadit is a mobile-first web app that empowers citizens to report road irregularities (like potholes, waterlogging, or broken roads all identified by AI when picture upload by civillian) with GPS-tagged images and severity classification. It creates a transparent, accountable, and data-driven channel to bridge the gap between the public and municipal authorities.
+Roadit is a web app that empowers citizens to report road irregularities (like potholes, waterlogging, or broken roads all identified by AI when picture upload by civillian) with GPS-tagged images and severity classification. It creates a transparent, accountable, and data-driven channel to bridge the gap between the public and municipal authorities.
 
 **🔍 Problem**
 
