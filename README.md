@@ -5,6 +5,7 @@ Members: Aaryan Paul (aaryan.paul2025@vitstudent.ac.in) - 8777565409
          Kartik Singh (kartik.digvijai2025@vitstudent.ac.in) - 9315332382
 
 LOGO: https://drive.google.com/file/d/1XAPX4fuxtTpTelbSejpPWiGQOeQ14Qhw/view?usp=drive_link
+
 VIDEO OF PROTOTYPE: https://drive.google.com/file/d/1z_QRsAWXPfBbJJowPNa-rlv1jz8Kgicb/view?usp=drive_link
 
 
