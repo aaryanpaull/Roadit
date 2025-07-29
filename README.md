@@ -1,10 +1,11 @@
 # Roadit - team FOSSILS
 
-Members: Aaryan Paul (aaryan.paul2025@vitstudent.ac.in) - 8777565409 [LEADER]
+Members: 
+Aaryan Paul (aaryan.paul2025@vitstudent.ac.in) - 8777565409 [LEAD]
 
-         Soham Chatterjee (soham.chatterjee2025@vitstudent.ac.in) - 6290543986
-         
-         Kartik Singh (kartik.digvijai2025@vitstudent.ac.in) - 9315332382
+Soham Chatterjee (soham.chatterjee2025@vitstudent.ac.in) - 6290543986
+
+Kartik Singh (kartik.digvijai2025@vitstudent.ac.in) - 9315332382
 
 LOGO: https://drive.google.com/file/d/1XAPX4fuxtTpTelbSejpPWiGQOeQ14Qhw/view?usp=drive_link
 
