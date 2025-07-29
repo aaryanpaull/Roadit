@@ -11,8 +11,7 @@ LOGO: https://drive.google.com/file/d/1XAPX4fuxtTpTelbSejpPWiGQOeQ14Qhw/view?usp
 
 VIDEO OF PROTOTYPE: https://drive.google.com/file/d/1z_QRsAWXPfBbJJowPNa-rlv1jz8Kgicb/view?usp=drive_link
 
-POWERPOINT: https://docs.google.com/presentation/d/1VIBetpNzaPqv4AEm2vBlx_Edea8H7PQg/edit?usp=drive_link&ouid=101875391752956525311&rtpof=true&sd=true
-
+POWERPOINT(pdf): https://drive.google.com/file/d/1I0WLpqNLOC_7eOTTumGC-KTsjCZ_J8pE/view?usp=drive_link
 
 Roadit is a web app that lets citizens report road issues like potholes or waterlogging with GPS-tagged photos and severity levels. Using Google Maps API and auto-escalation logic, it tracks reports, boosts transparency, and holds municipal bodies accountable via public dashboards.
 
